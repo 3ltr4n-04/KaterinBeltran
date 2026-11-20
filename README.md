@@ -1,2 +1,0 @@
-# KaterinBeltran
-Lenguaje C 
